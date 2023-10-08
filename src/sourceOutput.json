@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Vincent Van Quickenborne: Belgian justice minister apologises for 'Pipigate' scandal",
+            "description": "Vincent Van Quickenborne has received criticism after guests at his birthday urinated on a police van.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66743990",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B4F/production/_131011988_vincentvanquickenborne.jpg",
+            "publishedAt": "2023-09-07T20:22:24.0904147Z",
+            "content": "Belgium's justice minister has appeared before parliament after guests at his birthday party were caught on CCTV urinating on an empty police van.\r\nVincent Van Quickenborne insisted he had not known … [+2843 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Outrage over Abbas's antisemitic speech on Jews and Holocaust",
+            "description": "German and Israeli officials condemn the Palestinian leader's remarks about the mass murder of Jews.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-66741336",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F24F/production/_131013026_mediaitem131013023.jpg",
+            "publishedAt": "2023-09-07T19:07:26.0279699Z",
+            "content": "German and Israeli officials have condemned Palestinian President Mahmoud Abbas for comments he made about Jews and the Nazi Holocaust in a speech. \r\nMr Abbas said Adolf Hitler ordered the mass murde… [+4389 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Ritual mass murder' report in Chapel St Leonards was yoga class",
+            "description": "Police say the call was made with \"good intentions\" after students were mistaken for bodies.",
+            "url": "http://www.bbc.co.uk/news/uk-england-lincolnshire-66742339",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F93/production/_131015804_yoga_window.jpg",
+            "publishedAt": "2023-09-07T19:07:23.9347408Z",
+            "content": "A yoga class was mistaken for a \"ritual mass murder\" scene after members of the public saw several people lying on the floor and reported it to police.\r\nFive police cars descended on the North Sea Ob… [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada launches public inquiry into foreign interference",
+            "description": "Opposition parties have been pressuring the government for an inquiry into claims of meddling by China.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66745270",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6EC9/production/_131016382_gettyimages-1236146948.jpg",
+            "publishedAt": "2023-09-07T17:52:15.4656869Z",
+            "content": "Canada's federal government has named an appellate court judge to lead an inquiry into foreign interference in the country's elections. \r\nThe announcement comes after months of pressure on Justin Tru… [+2691 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "George Santos: Internal campaign research raised red flags before his election",
+            "description": "An internal \"vulnerability report\" with multiple concerns about his CV was sent to top Republicans.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66741976",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/710D/production/_131014982_gettyimages-1451484079.jpg",
+            "publishedAt": "2023-09-07T17:22:22.481071Z",
+            "content": "Long before news reports exposed the serial lies of embattled US congressman George Santos, research by his own campaign raised several red flags about him.\r\nIt questioned the New York Republican's c… [+2943 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Judge to sentence actor Danny Masterson to prison for two rapes",
+            "description": "The star of That '70s Show will learn his punishment after victim impact statements are read in court.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66744480",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/169C7/production/_129951629_c0c73c9a-8490-4fba-8c7c-8801a732ab01.jpg",
+            "publishedAt": "2023-09-07T15:37:23.0746751Z",
+            "content": "A judge in Los Angeles is due to decide the prison sentence for US actor Danny Masterson, who was convicted in May of raping two women in the early 2000s.\r\nThe star of That '70s Show, a TV sit-com se… [+2175 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mark Dickey: Rescuers rush to save US man trapped in Turkey cave",
+            "description": "Mark Dickey has been stuck in the Morca Cave since Saturday after suffering gastrointestinal bleeding.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66742540",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3D9/production/_131014064_img_0092.jpg",
+            "publishedAt": "2023-09-07T15:07:21.5274389Z",
+            "content": "A massive rescue operation has been launched in Turkey after an American man became trapped in the country's third deepest cave complex.\r\nAbout 150 workers have been working to recue Mark Dickey, 40,… [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Greek floods: Austrian honeymooners missing after holiday home swept away",
+            "description": "Rescuers are searching for the couple after torrential rains swept away their holiday home.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66740008",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1294F/production/_131011167_greecehouse.jpg",
+            "publishedAt": "2023-09-07T10:52:22.9376263Z",
+            "content": "An Austrian couple on honeymoon is missing in Greece after torrential rains swept away the house they were staying in.\r\nEmergency services have told the BBC they are searching for the couple and seve… [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China wants to ban clothes that 'hurt nation's feelings'",
+            "description": "A draft law sparks debate with locals calling it excessive and questioning how it would be enforced.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-66737272",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7FA8/production/_131008623_gettyimages-1265207063.jpg",
+            "publishedAt": "2023-09-07T06:22:16.4696827Z",
+            "content": "A draft law banning speech and dressing \"detrimental to the spirit of Chinese people\" has sparked debate in China.\r\nIf the law comes into force, people found guilty could be fined or jailed but the p… [+2939 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Danelo Cavalcante: Security lapse let killer 'crab walk' out of US prison",
+            "description": "Danel Cavalcante used the same escape route taken by another inmate who fled earlier this year.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66736451",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30B6/production/_131007421_microsoftteams-image-2.png",
+            "publishedAt": "2023-09-06T21:37:20.0014906Z",
+            "content": "A killer who escaped a Pennsylvania prison last week climbed the same walls that another prisoner scaled earlier this year to get away, officials say.\r\nDanelo Cavalcante, 34, whose escape on 31 Augus… [+3366 chars]"
+        }
+    ]
+}
